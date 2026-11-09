@@ -1,0 +1,5 @@
+print("Hello World")
+print("Welcome to COS 101 practical.")
+print("This is my first saved python program.")
+print(8/2)
+print(5+5)
